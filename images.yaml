@@ -134,7 +134,7 @@
 - name: eclipse-mosquitto:2.0.15-openssl 
 - name: caddy:2.8.4
 - name: caddy:2.10.2
-- name: ghcr.io/dayuanjiang/next-ai-draw-io:0.4.16
+- name: ghcr.io/dayuanjiang/next-ai-draw-io:sha-5bfd7b2
 - name: apache/flink-kubernetes-operator:1.13.0
 - name: flink:1.20.3-scala_2.12-java11
 - name: maven:3.9-eclipse-temurin-11-alpine
