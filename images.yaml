@@ -156,3 +156,4 @@
 - name: calciumion/new-api:v1.0.0-rc.15
 - name: composer:2.10.1
 - name: sonatype/nexus3:3.93.2
+- name: postgrest/postgrest:v14.14
