@@ -72,3 +72,4 @@ playwright/.cache/
 
 # 项目特定
 data/
+.env*

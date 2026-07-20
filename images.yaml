@@ -45,7 +45,7 @@
 - name: busybox:1.28
 - name: caddy:2.8.4
 - name: caddy:2.10.2
-- name: calciumion/new-api:v1.0.0-rc.15
+- name: calciumion/new-api:v1.0.0-rc.21
 - name: chromadb/chroma:0.5.3
 - name: codeberg.org/forgejo/forgejo:15
 - name: composer:2.10.1
